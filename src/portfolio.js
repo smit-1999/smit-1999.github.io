@@ -23,8 +23,12 @@ const education = [
     description:
       'Masters in Computer Science',
     stack: ['Sept 2023 - May 2025'],
-    sourceCode: 'https://github.com/Travellite',
-    livePreview: 'https://github.com/Travellite',
+  },
+  {
+    name: 'BITS Pilani',
+    description:
+      'B.E in Computer Science + Minor in Data Science',
+    stack: ['Aug 2017 - Jun 2021'],
   },
 ]
 
