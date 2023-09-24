@@ -1,18 +1,18 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'https://smit-1999.github.io',
+  title: 'SS',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Smit Shah',
-  role: 'Software Engineer',
+  role: 'MS CS at University of Wisconsin Madison | Ex-Microsoft',
   description:
-    'Experienced professional in software development',
-  resume: 'https://example.com',
+    'Experienced professional in software development interested in building scalable systems',
+  resume: 'https://drive.google.com/file/d/1HoiwUuXLN0ImvXCmM0EpUfOr6oB9zMSV/view?usp=sharing',
   social: {
-    linkedin: 'https://linkedin.com',
+    linkedin: 'https://www.linkedin.com/in/smit-shah-336369186/',
     github: 'https://github.com/smit-1999',
   },
 }
@@ -21,12 +21,12 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Travellite',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A web application for cab booking  built as a part of software engineering course at BITS Pilani',
+    stack: ['MongoDB', 'TypeScript', 'React', 'ExpressJS', 'NodeJS'],
+    sourceCode: 'https://github.com/Travellite',
+    livePreview: 'https://github.com/Travellite',
   },
   {
     name: 'Project 2',
@@ -54,18 +54,19 @@ const skills = [
   'JavaScript',
   'TypeScript',
   'React',
-  'Redux',
-  'SASS',
-  'Material UI',
-  'Git',
+  'React Native',
+  'C#',
+  'Java',
+  'Python',
   'CI/CD',
   'Jest',
-  'Enzyme',
+  'MongoDB',
+  'ExpressJS'
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'smitshahpersonal@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
