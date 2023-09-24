@@ -27,7 +27,7 @@ const education = [
   {
     name: 'BITS Pilani',
     description: 'B.E in Computer Science + Minor in Data Science',
-    stack: ['Aug 2017 - Jun 2021'],
+    stack: ['Aug 2017 - Jun 2021', 'GPA: 9.04/10'],
   },
 ]
 
@@ -101,23 +101,27 @@ const skills = [
 const experience = [
   {
     name: 'Microsoft',
-    description: 'Software Engineer',
-    stack: ['Hyderabad', 'Jul 2021 - Aug 2023'],
+    description:
+      'Full stack software engineer in the Viva Learning Search team developing applications across web client, mobile and backend using React.js, Typescript, React Native and C#',
+    stack: ['HYD, India', 'Jul 2021 - Aug 2023'],
   },
   {
     name: 'Amazon',
-    description: 'Software Development Intern',
-    stack: ['Hyderabad', 'Jan 2021 - Jun 2021'],
+    description:
+      'Backend software development intern in the custoemr returns team involved in application enhancement using Java and AWS tools like S3, ElasticSearch, Lambda, Sushi',
+    stack: ['HYD, India', 'Jan 2021 - Jun 2021'],
   },
   {
     name: 'Walmart Labs',
-    description: 'Software Development Intern',
-    stack: ['Bengaluru', 'May 2020 - Jul 2020'],
+    description:
+      'Frontend developer intern involved in persisting conversations in a chatbot and proposing various approaches to achieve historical conversations using Typescript, React.js, Azure Bot Service',
+    stack: ['BLR, India', 'May 2020 - Jul 2020'],
   },
   {
     name: 'MapMyIndia',
-    description: 'Software Development Intern',
-    stack: ['New Delhi', 'May 2019 - Jul 2019'],
+    description:
+      'Backend infrastructure intern involved in migrating the existing geospatial application infrastructure to an open source based model using Kafka, AWS S3, Docker and Bash',
+    stack: ['DEL, India', 'May 2019 - Jul 2019'],
   },
 ]
 
