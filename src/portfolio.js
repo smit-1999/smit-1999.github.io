@@ -17,6 +17,17 @@ const about = {
   },
 }
 
+const education = [
+  {
+    name: 'University of Wisconsin Madison',
+    description:
+      'Masters in Computer Science',
+    stack: ['Sept 2023 - May 2025'],
+    sourceCode: 'https://github.com/Travellite',
+    livePreview: 'https://github.com/Travellite',
+  },
+]
+
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
@@ -29,7 +40,7 @@ const projects = [
     livePreview: 'https://github.com/Travellite',
   },
   {
-    name: 'Project 2',
+    name: 'AIML Bot',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
     stack: ['SASS', 'TypeScript', 'React'],
@@ -69,4 +80,4 @@ const contact = {
   email: 'smitshahpersonal@gmail.com',
 }
 
-export { header, about, projects, skills, contact }
+export { header, about, projects, skills, contact , education}
