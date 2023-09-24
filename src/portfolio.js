@@ -39,25 +39,38 @@ const projects = [
     name: 'Travellite',
     description:
       'A web application for cab booking  built as a part of software engineering course at BITS Pilani',
-    stack: ['MongoDB', 'TypeScript', 'React', 'ExpressJS', 'NodeJS'],
+    stack: ['Software Engineering', 'MongoDB', 'TypeScript', 'React', 'ExpressJS', 'NodeJS'],
     sourceCode: 'https://github.com/Travellite',
     livePreview: 'https://github.com/Travellite',
   },
   {
-    name: 'AIML Bot',
+    name: 'UDP with RDT Protocol',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Developed a robust wrapper layer over UDP network to ensure retransmissions, ack numbers, sequenc numbers',
+    stack: ['Computer Networks','Python'],
+    sourceCode: 'https://github.com/smit-1999/UDP-with-RDT-Protocol'
   },
   {
-    name: 'Project 3',
+    name: 'AIML Bot',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'An AIML chatbot which recommends courses based on student inputs, likings and interests',
+    stack: ['Artificial Intelligence','Android', 'Python', 'Flask','Java'],
+    sourceCode: 'https://github.com/smit-1999/AIML_Bot',
+    livePreview: 'https://github.com/smit-1999/AIML_Bot#demo',
+  },
+  {
+    name: 'Apriori FP Tree',
+    description:
+      'In this assignment, frequent itemsets and interesting association rules are generated using Apriori and FP-growth algorithm',
+    stack: ['Data Mining','Java'],
+    sourceCode: 'https://github.com/smit-1999/Apriori-FP-Tree',
+  },
+  {
+    name: 'Medical Expert System',
+    description:
+      'Expert system built using knowledge graphs to develop intelligent answers and diagnosis',
+    stack: ['Artificial Intelligence','Python','Experta'],
+    sourceCode: 'https://github.com/smit-1999/Medical-Expert-System',
   },
 ]
 
