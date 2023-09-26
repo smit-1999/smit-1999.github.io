@@ -108,7 +108,7 @@ const experience = [
   {
     name: 'Amazon',
     description:
-      'Backend software development intern in the custoemr returns team involved in application enhancement using Java and AWS tools like S3, ElasticSearch, Lambda, Sushi',
+      'Backend software development intern in the customer returns team involved in application enhancement using Java and AWS tools like S3, ElasticSearch, Lambda, Sushi',
     stack: ['HYD, India', 'Jan 2021 - Jun 2021'],
   },
   {
